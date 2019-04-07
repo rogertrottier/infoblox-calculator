@@ -1,0 +1,14 @@
+C:\Users\roger.CBS\source\repos\Infoblox-Calculator\Infoblox-Calculator\bin\Debug\netcoreapp2.2\Infoblox-Calculator.deps.json
+C:\Users\roger.CBS\source\repos\Infoblox-Calculator\Infoblox-Calculator\bin\Debug\netcoreapp2.2\Infoblox-Calculator.runtimeconfig.json
+C:\Users\roger.CBS\source\repos\Infoblox-Calculator\Infoblox-Calculator\bin\Debug\netcoreapp2.2\Infoblox-Calculator.runtimeconfig.dev.json
+C:\Users\roger.CBS\source\repos\Infoblox-Calculator\Infoblox-Calculator\bin\Debug\netcoreapp2.2\Infoblox-Calculator.dll
+C:\Users\roger.CBS\source\repos\Infoblox-Calculator\Infoblox-Calculator\bin\Debug\netcoreapp2.2\Infoblox-Calculator.pdb
+C:\Users\roger.CBS\source\repos\Infoblox-Calculator\Infoblox-Calculator\obj\Debug\netcoreapp2.2\Infoblox-Calculator.csprojAssemblyReference.cache
+C:\Users\roger.CBS\source\repos\Infoblox-Calculator\Infoblox-Calculator\obj\Debug\netcoreapp2.2\Infoblox-Calculator.csproj.CoreCompileInputs.cache
+C:\Users\roger.CBS\source\repos\Infoblox-Calculator\Infoblox-Calculator\obj\Debug\netcoreapp2.2\Infoblox-Calculator.RazorAssemblyInfo.cache
+C:\Users\roger.CBS\source\repos\Infoblox-Calculator\Infoblox-Calculator\obj\Debug\netcoreapp2.2\Infoblox-Calculator.RazorAssemblyInfo.cs
+C:\Users\roger.CBS\source\repos\Infoblox-Calculator\Infoblox-Calculator\obj\Debug\netcoreapp2.2\Infoblox-Calculator.AssemblyInfoInputs.cache
+C:\Users\roger.CBS\source\repos\Infoblox-Calculator\Infoblox-Calculator\obj\Debug\netcoreapp2.2\Infoblox-Calculator.AssemblyInfo.cs
+C:\Users\roger.CBS\source\repos\Infoblox-Calculator\Infoblox-Calculator\obj\Debug\netcoreapp2.2\Infoblox-Calculator.RazorTargetAssemblyInfo.cache
+C:\Users\roger.CBS\source\repos\Infoblox-Calculator\Infoblox-Calculator\obj\Debug\netcoreapp2.2\Infoblox-Calculator.dll
+C:\Users\roger.CBS\source\repos\Infoblox-Calculator\Infoblox-Calculator\obj\Debug\netcoreapp2.2\Infoblox-Calculator.pdb
